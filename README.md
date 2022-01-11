@@ -1,5 +1,5 @@
 # plugin-template
-This repository serves as a basic template to be used when creating a plugin for the game Endless Sky. Fork it and start modding!
+This repository serves as a basic template to be used when creating a plugin for the game Endless Sky. There is a big `Use this template` button. Click it, and GitHub will make a repository for you. Then, if you have git installed, just clone it in your Endless Sky plugin directory, open up a text editor, and start modding!
 
 [Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
 
